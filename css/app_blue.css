@@ -13,7 +13,8 @@ body {
     background-image: url('../img/landscape_photo.jpg');
     background-size:cover;
     background-repeat:no-repeat;
-    background-attachment:fixed;
+    background-color:#010427;
+    /*background-attachment:fixed;*/
     position: absolute;
     top:0;
     left:0;
@@ -56,7 +57,7 @@ header > div > div a {
   text-decoration: none;
   margin: 0 15px;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 
 section {
@@ -77,16 +78,17 @@ section > div {
 }
 
 section > div > div h1 {
-    /*color: #fff;*/
-    color: #010F3C;
+    color: #fff;
+    /*color: #010F3C;*/
     font-family:Consolas;
     text-align: center;
     font-size: 2rem;
     letter-spacing: 0.1em;
-    border-bottom: 1px solid #010F3C;
+    border-bottom: 1px solid #fff;
 }
 
 section > div > div p {
+  color: #fff;
   line-height: 1.5;
   font-family:Consolas;
   font-size: 1.2rem;
