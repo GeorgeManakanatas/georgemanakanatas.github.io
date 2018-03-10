@@ -342,25 +342,31 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .ApacheCamel {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 
 .ApacheCXF {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 
 .ApacheKaraf {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 
 .Node {
   	width: 90%;
+  	-moz-animation: photoshop 2s ease;
+  	-webkit-animation: photoshop 2s ease;
+}
+
+.Angular {
+  	width: 50%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -372,7 +378,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .Java {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -397,15 +403,15 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes ApacheCamel {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes ApacheCXF {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes ApacheKaraf {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes Express {
   0%   { width: 0px;  }
@@ -415,10 +421,14 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
+@-moz-keyframes Angular {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
 
 @-moz-keyframes Java {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes Javascript {
   0%   { width: 0px;  }
@@ -437,19 +447,23 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes ApacheCamel {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes ApacheCXF {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes ApacheKaraf {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes Node {
   0%   { width: 0px;  }
   100% { width: 90%;  }
+}
+@-webkit-keyframes Angular {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
 }
 @-webkit-keyframes Express {
   0%   { width: 0px;  }
@@ -458,7 +472,7 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes Java {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes Javascript {
   0%   { width: 0px;  }
