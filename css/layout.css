@@ -341,14 +341,14 @@ ul#nav li.current a { color: #F06000; }
     border-radius: 3px 0 0 3px;
 }
 
-.ApacheCamel {
-  	width: 65%;
+.Flask {
+  	width: 80%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 
-.ApacheCXF {
-  	width: 65%;
+.Docker {
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -360,13 +360,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .Node {
-  	width: 90%;
+  	width: 86%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 
-.Angular {
-  	width: 50%;
+.Ansible {
+  	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -401,13 +401,13 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: photoshop 2s ease;
 }
 
-@-moz-keyframes ApacheCamel {
+@-moz-keyframes Flask {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 80%;  }
 }
-@-moz-keyframes ApacheCXF {
+@-moz-keyframes Docker {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes ApacheKaraf {
   0%   { width: 0px;  }
@@ -419,11 +419,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes Node {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 86%;  }
 }
-@-moz-keyframes Angular {
+@-moz-keyframes Ansible {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 
 @-moz-keyframes Java {
@@ -445,13 +445,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 
-@-webkit-keyframes ApacheCamel {
+@-webkit-keyframes Flask {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 80%;  }
 }
-@-webkit-keyframes ApacheCXF {
+@-webkit-keyframes Docker {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes ApacheKaraf {
   0%   { width: 0px;  }
@@ -459,11 +459,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes Node {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 86%;  }
 }
-@-webkit-keyframes Angular {
+@-webkit-keyframes Ansible {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes Express {
   0%   { width: 0px;  }
